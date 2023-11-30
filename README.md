@@ -1,3 +1,3 @@
-# Random User Display:
+# EE106A Final Project Demo Website
 
-preview: https://random-user-display.vercel.app/
+preview: https://106a-final-project-website.vercel.app/
