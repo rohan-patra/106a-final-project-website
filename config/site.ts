@@ -8,5 +8,25 @@ export const siteConfig = {
       title: 'Home',
       href: '/',
     },
+    {
+      title: 'Design',
+      href: '/design',
+    },
+    {
+      title: 'Implementation',
+      href: '/implementation',
+    },
+    {
+      title: 'Results',
+      href: '/results',
+    },
+    {
+      title: 'Remarks',
+      href: '/remarks',
+    },
+      {
+      title: 'Teams',
+      href: '/teams',
+    },
   ],
 }
